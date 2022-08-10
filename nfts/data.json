@@ -1,0 +1,2002 @@
+[
+    {
+        "Background": "Orange",
+        "Class": "Necromancer",
+        "Body": "Radioactive",
+        "Head": "Headband",
+        "Eyes": "Thug Life",
+        "Mouth": "Tooth",
+        "Back": "None",
+        "Power": 1287
+    },
+    {
+        "Background": "Blue",
+        "Class": "Golem",
+        "Body": "Gold",
+        "Head": "Symbol",
+        "Eyes": "Obsidian",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 1246
+    },
+    {
+        "Background": "Red",
+        "Class": "Dragon",
+        "Body": "Flame",
+        "Head": "Gold Horns",
+        "Eyes": "Obsidian",
+        "Mouth": "Gold Fangs",
+        "Back": "Dragon Wings",
+        "Power": 1206
+    },
+    {
+        "Background": "Blue",
+        "Class": "Dragon",
+        "Body": "Steel",
+        "Head": "Dark Horns",
+        "Eyes": "Steel",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 1188
+    },
+    {
+        "Background": "Blue",
+        "Class": "Dragon",
+        "Body": "Gold",
+        "Head": "None",
+        "Eyes": "Steel",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 1154
+    },
+    {
+        "Background": "Blue",
+        "Class": "Golem",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Gemstone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1131
+    },
+    {
+        "Background": "Red",
+        "Class": "Dragon",
+        "Body": "Steel",
+        "Head": "Horns",
+        "Eyes": "Flame",
+        "Mouth": "Fangs",
+        "Back": "Dragon Wings",
+        "Power": 1128
+    },
+    {
+        "Background": "Red",
+        "Class": "Dragon",
+        "Body": "Steel",
+        "Head": "None",
+        "Eyes": "Frost",
+        "Mouth": "Fangs",
+        "Back": "None",
+        "Power": 1103
+    },
+    {
+        "Background": "Orange",
+        "Class": "Dragon",
+        "Body": "Frost",
+        "Head": "Horns",
+        "Eyes": "Frost",
+        "Mouth": "Bloody Fangs",
+        "Back": "None",
+        "Power": 1096
+    },
+    {
+        "Background": "Blue",
+        "Class": "Crusader",
+        "Body": "God Armor",
+        "Head": "Robinhood",
+        "Eyes": "3D",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 1094
+    },
+    {
+        "Background": "None",
+        "Class": "Wizard",
+        "Body": "Beast Hide",
+        "Head": "Robinhood",
+        "Eyes": "Thug Life",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 1092
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "Radioactive",
+        "Head": "Santa",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1091
+    },
+    {
+        "Background": "Gray",
+        "Class": "Dragon",
+        "Body": "Frost",
+        "Head": "None",
+        "Eyes": "Gold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1056
+    },
+    {
+        "Background": "POTR",
+        "Class": "Golem",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Gold",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 1048
+    },
+    {
+        "Background": "Gold",
+        "Class": "Assassin",
+        "Body": "Skull Shirt",
+        "Head": "Santa",
+        "Eyes": "3D",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1047
+    },
+    {
+        "Background": "Gold",
+        "Class": "Assassin",
+        "Body": "Beast Hide",
+        "Head": "Robinhood",
+        "Eyes": "3D",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 1035
+    },
+    {
+        "Background": "Red",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "Robinhood",
+        "Eyes": "VR",
+        "Mouth": "Tooth",
+        "Back": "None",
+        "Power": 1034
+    },
+    {
+        "Background": "Gray",
+        "Class": "Dragon",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Obsidian",
+        "Mouth": "Fangs",
+        "Back": "None",
+        "Power": 1033
+    },
+    {
+        "Background": "Gray",
+        "Class": "Dragon",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Frost",
+        "Mouth": "Bloody Fangs",
+        "Back": "Dragon Wings",
+        "Power": 1024
+    },
+    {
+        "Background": "Purple",
+        "Class": "Wizard",
+        "Body": "Dragonhide",
+        "Head": "Flaming",
+        "Eyes": "Thug Life",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1017
+    },
+    {
+        "Background": "Red",
+        "Class": "Golem",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Gold",
+        "Mouth": "Joint",
+        "Back": "None",
+        "Power": 1014
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Archangel",
+        "Body": "Radioactive",
+        "Head": "None",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 1004
+    },
+    {
+        "Background": "Gray",
+        "Class": "Archangel",
+        "Body": "Skull Shirt",
+        "Head": "Gandalf",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 983
+    },
+    {
+        "Background": "Orange",
+        "Class": "Archangel",
+        "Body": "God Armor",
+        "Head": "Manga",
+        "Eyes": "Stone",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 975
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Angel Light",
+        "Head": "Jester",
+        "Eyes": "Closed",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 971
+    },
+    {
+        "Background": "None",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Shadow Hood",
+        "Eyes": "Thug Life",
+        "Mouth": "None",
+        "Back": "Angel Wings",
+        "Power": 968
+    },
+    {
+        "Background": "Gray",
+        "Class": "Crusader",
+        "Body": "Dragonhide",
+        "Head": "Crown",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 967
+    },
+    {
+        "Background": "Blue",
+        "Class": "Golem",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Obsidian",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 961
+    },
+    {
+        "Background": "Orange",
+        "Class": "Wizard",
+        "Body": "Shadow Armor",
+        "Head": "Winged Helm",
+        "Eyes": "Blue",
+        "Mouth": "Tooth",
+        "Back": "None",
+        "Power": 955
+    },
+    {
+        "Background": "Red",
+        "Class": "Archangel",
+        "Body": "Wizard Robes",
+        "Head": "Master Hood",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 952
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Angel Light",
+        "Head": "Headband",
+        "Eyes": "Closed",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 951
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Frost",
+        "Head": "Gandalf",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 947
+    },
+    {
+        "Background": "POTR",
+        "Class": "Archangel",
+        "Body": "Flame",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 945
+    },
+    {
+        "Background": "Gray",
+        "Class": "Golem",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Frost",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 945
+    },
+    {
+        "Background": "Dark",
+        "Class": "Wizard",
+        "Body": "God Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Blue",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 938
+    },
+    {
+        "Background": "Gray",
+        "Class": "Ranger",
+        "Body": "Angel Light",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "Sword",
+        "Power": 923
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "Skull Shirt",
+        "Head": "Robinhood",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 923
+    },
+    {
+        "Background": "Blue",
+        "Class": "Crusader",
+        "Body": "Beast Hide",
+        "Head": "Winged Helm",
+        "Eyes": "Blindfold",
+        "Mouth": "Joint",
+        "Back": "Angel Wings",
+        "Power": 922
+    },
+    {
+        "Background": "Blue",
+        "Class": "Archangel",
+        "Body": "Dragonhide",
+        "Head": "Halo",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Angel Wings",
+        "Power": 920
+    },
+    {
+        "Background": "POTR",
+        "Class": "Necromancer",
+        "Body": "Skull Shirt",
+        "Head": "Jester",
+        "Eyes": "None",
+        "Mouth": "Smile",
+        "Back": "Cape",
+        "Power": 920
+    },
+    {
+        "Background": "Gold",
+        "Class": "Ranger",
+        "Body": "Radioactive",
+        "Head": "None",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 920
+    },
+    {
+        "Background": "POTR",
+        "Class": "Wizard",
+        "Body": "Frost",
+        "Head": "Wizard Hat",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 919
+    },
+    {
+        "Background": "Orange",
+        "Class": "Assassin",
+        "Body": "Radioactive",
+        "Head": "Viking",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 914
+    },
+    {
+        "Background": "Blue",
+        "Class": "Wizard",
+        "Body": "God Armor",
+        "Head": "Manga",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 905
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "God Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Closed",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 903
+    },
+    {
+        "Background": "None",
+        "Class": "Assassin",
+        "Body": "Beast Hide",
+        "Head": "Manga",
+        "Eyes": "Blue",
+        "Mouth": "Tooth",
+        "Back": "None",
+        "Power": 903
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Crusader",
+        "Body": "Skull Shirt",
+        "Head": "Flaming",
+        "Eyes": "Closed",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 897
+    },
+    {
+        "Background": "Blue",
+        "Class": "Crusader",
+        "Body": "Dragonhide",
+        "Head": "Master Hood",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 896
+    },
+    {
+        "Background": "Blue",
+        "Class": "Necromancer",
+        "Body": "Skull Shirt",
+        "Head": "Headband",
+        "Eyes": "3D",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 896
+    },
+    {
+        "Background": "Orange",
+        "Class": "Assassin",
+        "Body": "Wizard Robes",
+        "Head": "Master Hood",
+        "Eyes": "Laser",
+        "Mouth": "Tongue",
+        "Back": "Angel Wings",
+        "Power": 894
+    },
+    {
+        "Background": "Dark",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "Robinhood",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 891
+    },
+    {
+        "Background": "Gold",
+        "Class": "Necromancer",
+        "Body": "Light Armor",
+        "Head": "Demon",
+        "Eyes": "Black",
+        "Mouth": "Joint",
+        "Back": "Cape",
+        "Power": 891
+    },
+    {
+        "Background": "Red",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Gandalf",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 890
+    },
+    {
+        "Background": "None",
+        "Class": "Crusader",
+        "Body": "Skull Shirt",
+        "Head": "None",
+        "Eyes": "Blue",
+        "Mouth": "Tooth",
+        "Back": "None",
+        "Power": 889
+    },
+    {
+        "Background": "Gray",
+        "Class": "Archangel",
+        "Body": "Shadow Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 882
+    },
+    {
+        "Background": "Purple",
+        "Class": "Assassin",
+        "Body": "None",
+        "Head": "Blond Hair",
+        "Eyes": "Thug Life",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 879
+    },
+    {
+        "Background": "Purple",
+        "Class": "Assassin",
+        "Body": "None",
+        "Head": "Santa",
+        "Eyes": "Black",
+        "Mouth": "Joint",
+        "Back": "None",
+        "Power": 876
+    },
+    {
+        "Background": "Orange",
+        "Class": "Archangel",
+        "Body": "Shadow Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 874
+    },
+    {
+        "Background": "Red",
+        "Class": "Archangel",
+        "Body": "Light Armor",
+        "Head": "Winged Helm",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 871
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Assassin",
+        "Body": "Dragonhide",
+        "Head": "Manga",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 866
+    },
+    {
+        "Background": "Gray",
+        "Class": "Wizard",
+        "Body": "Dragonhide",
+        "Head": "Master Hood",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "Dragon Wings",
+        "Power": 866
+    },
+    {
+        "Background": "Orange",
+        "Class": "Necromancer",
+        "Body": "Frost",
+        "Head": "Wizard Hat",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 863
+    },
+    {
+        "Background": "None",
+        "Class": "Assassin",
+        "Body": "God Armor",
+        "Head": "Viking",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 850
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Flame",
+        "Head": "Halo",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 850
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Beast Hide",
+        "Head": "Santa",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 849
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Wizard Robes",
+        "Head": "Master Hood",
+        "Eyes": "Black",
+        "Mouth": "Joint",
+        "Back": "None",
+        "Power": 846
+    },
+    {
+        "Background": "Gold",
+        "Class": "Berserker",
+        "Body": "God Armor",
+        "Head": "Blond Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 845
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Flame",
+        "Head": "Jester",
+        "Eyes": "Laser",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 845
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Beast Hide",
+        "Head": "Robinhood",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 842
+    },
+    {
+        "Background": "Orange",
+        "Class": "Assassin",
+        "Body": "Wizard Robes",
+        "Head": "Halo",
+        "Eyes": "Closed",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 834
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "Flame",
+        "Head": "Halo",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "Dragon Wings",
+        "Power": 833
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "Flame",
+        "Head": "Demon",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 829
+    },
+    {
+        "Background": "Orange",
+        "Class": "Necromancer",
+        "Body": "Beast Hide",
+        "Head": "Master Hood",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 828
+    },
+    {
+        "Background": "Orange",
+        "Class": "Wizard",
+        "Body": "Flame",
+        "Head": "Jester",
+        "Eyes": "Blue",
+        "Mouth": "Tongue",
+        "Back": "Sword",
+        "Power": 828
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Flame",
+        "Head": "Halo",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 827
+    },
+    {
+        "Background": "Purple",
+        "Class": "Ranger",
+        "Body": "Light Armor",
+        "Head": "Master Hood",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 827
+    },
+    {
+        "Background": "Gray",
+        "Class": "Assassin",
+        "Body": "Frost",
+        "Head": "Manga",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 826
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "God Armor",
+        "Head": "Headband",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 825
+    },
+    {
+        "Background": "Blue",
+        "Class": "Archangel",
+        "Body": "Shadow Armor",
+        "Head": "None",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 824
+    },
+    {
+        "Background": "Orange",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Crown",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 823
+    },
+    {
+        "Background": "Blue",
+        "Class": "Necromancer",
+        "Body": "God Armor",
+        "Head": "None",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 819
+    },
+    {
+        "Background": "Blue",
+        "Class": "Necromancer",
+        "Body": "Wizard Robes",
+        "Head": "Winged Helm",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 817
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Gandalf",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 816
+    },
+    {
+        "Background": "Red",
+        "Class": "Necromancer",
+        "Body": "Plate Armor",
+        "Head": "Brown Hair",
+        "Eyes": "None",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 815
+    },
+    {
+        "Background": "Gray",
+        "Class": "Crusader",
+        "Body": "Dragonhide",
+        "Head": "Flaming",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 814
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "Plate Armor",
+        "Head": "Demon",
+        "Eyes": "Blue",
+        "Mouth": "Tongue",
+        "Back": "Angel Wings",
+        "Power": 813
+    },
+    {
+        "Background": "Dark",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Viking",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 813
+    },
+    {
+        "Background": "Purple",
+        "Class": "Crusader",
+        "Body": "Skull Shirt",
+        "Head": "Jester",
+        "Eyes": "Blindfold",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 812
+    },
+    {
+        "Background": "Blue",
+        "Class": "Necromancer",
+        "Body": "Flame",
+        "Head": "Wizard Hat",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 811
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Demon",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 808
+    },
+    {
+        "Background": "None",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Blond Hair",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 807
+    },
+    {
+        "Background": "Red",
+        "Class": "Berserker",
+        "Body": "Frost",
+        "Head": "Buzzcut",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 807
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "None",
+        "Head": "Blond Hair",
+        "Eyes": "3D",
+        "Mouth": "Tongue",
+        "Back": "Dragon Wings",
+        "Power": 806
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "Dragonhide",
+        "Head": "Wizard Hat",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 805
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "Shadow Armor",
+        "Head": "Manga",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 804
+    },
+    {
+        "Background": "Red",
+        "Class": "Necromancer",
+        "Body": "Frost",
+        "Head": "Brown Hair",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 800
+    },
+    {
+        "Background": "Orange",
+        "Class": "Wizard",
+        "Body": "Frost",
+        "Head": "Viking",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 799
+    },
+    {
+        "Background": "Orange",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "None",
+        "Eyes": "3D",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 798
+    },
+    {
+        "Background": "Red",
+        "Class": "Archangel",
+        "Body": "Beast Hide",
+        "Head": "Brown Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 797
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Necromancer",
+        "Body": "Light Armor",
+        "Head": "Wizard Hat",
+        "Eyes": "Stone",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 796
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Assassin",
+        "Body": "Wizard Robes",
+        "Head": "Jester",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 794
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Master Hood",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 794
+    },
+    {
+        "Background": "Purple",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Master Hood",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 792
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "Flame",
+        "Head": "None",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 792
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Beast Hide",
+        "Head": "Halo",
+        "Eyes": "Closed",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 786
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "Plate Armor",
+        "Head": "Jester",
+        "Eyes": "Laser",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 785
+    },
+    {
+        "Background": "Purple",
+        "Class": "Necromancer",
+        "Body": "Frost",
+        "Head": "None",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 785
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Flame",
+        "Head": "Brown Hair",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "Sword",
+        "Power": 784
+    },
+    {
+        "Background": "Blue",
+        "Class": "Necromancer",
+        "Body": "Wizard Robes",
+        "Head": "Headband",
+        "Eyes": "Stone",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 784
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "Skull Shirt",
+        "Head": "Buzzcut",
+        "Eyes": "Blue",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 783
+    },
+    {
+        "Background": "POTR",
+        "Class": "Ranger",
+        "Body": "Plate Armor",
+        "Head": "Brown Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 782
+    },
+    {
+        "Background": "Red",
+        "Class": "Wizard",
+        "Body": "Plate Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 782
+    },
+    {
+        "Background": "Blue",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Robinhood",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 781
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Flame",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 781
+    },
+    {
+        "Background": "Purple",
+        "Class": "Crusader",
+        "Body": "Beast Hide",
+        "Head": "Shadow Hood",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 780
+    },
+    {
+        "Background": "Red",
+        "Class": "Necromancer",
+        "Body": "Shadow Armor",
+        "Head": "Flaming",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 780
+    },
+    {
+        "Background": "Orange",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Master Hood",
+        "Eyes": "Closed",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 779
+    },
+    {
+        "Background": "Dark",
+        "Class": "Berserker",
+        "Body": "Wizard Robes",
+        "Head": "None",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "Cape",
+        "Power": 777
+    },
+    {
+        "Background": "None",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Flaming",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 777
+    },
+    {
+        "Background": "Purple",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Brown Hair",
+        "Eyes": "3D",
+        "Mouth": "Tongue",
+        "Back": "Cape",
+        "Power": 777
+    },
+    {
+        "Background": "Gray",
+        "Class": "Crusader",
+        "Body": "Light Armor",
+        "Head": "Demon",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 776
+    },
+    {
+        "Background": "Gray",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Viking",
+        "Eyes": "Blue",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 773
+    },
+    {
+        "Background": "Gray",
+        "Class": "Wizard",
+        "Body": "Wizard Robes",
+        "Head": "Shadow Hood",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 770
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "Dragonhide",
+        "Head": "None",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 770
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "None",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 769
+    },
+    {
+        "Background": "Gray",
+        "Class": "Wizard",
+        "Body": "Beast Hide",
+        "Head": "Shadow Hood",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 769
+    },
+    {
+        "Background": "Blue",
+        "Class": "Wizard",
+        "Body": "Plate Armor",
+        "Head": "Wizard Hat",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 768
+    },
+    {
+        "Background": "None",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Flaming",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 766
+    },
+    {
+        "Background": "Orange",
+        "Class": "Wizard",
+        "Body": "Wizard Robes",
+        "Head": "Headband",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 766
+    },
+    {
+        "Background": "Dark",
+        "Class": "Berserker",
+        "Body": "Plate Armor",
+        "Head": "Viking",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 764
+    },
+    {
+        "Background": "None",
+        "Class": "Berserker",
+        "Body": "Plate Armor",
+        "Head": "Halo",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 764
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "Light Armor",
+        "Head": "Wizard Hat",
+        "Eyes": "Black",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 764
+    },
+    {
+        "Background": "Orange",
+        "Class": "Berserker",
+        "Body": "Plate Armor",
+        "Head": "Halo",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 763
+    },
+    {
+        "Background": "Purple",
+        "Class": "Wizard",
+        "Body": "Shadow Armor",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 761
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Flame",
+        "Head": "Viking",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 761
+    },
+    {
+        "Background": "Gray",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "Brown Hair",
+        "Eyes": "Blindfold",
+        "Mouth": "Frown",
+        "Back": "Sword",
+        "Power": 761
+    },
+    {
+        "Background": "None",
+        "Class": "Berserker",
+        "Body": "Light Armor",
+        "Head": "Halo",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "Cape",
+        "Power": 760
+    },
+    {
+        "Background": "POTR",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Shadow Hood",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 757
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Halo",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 755
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Robinhood",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 754
+    },
+    {
+        "Background": "Purple",
+        "Class": "Wizard",
+        "Body": "Shadow Armor",
+        "Head": "Buzzcut",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 754
+    },
+    {
+        "Background": "Gray",
+        "Class": "Archangel",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 754
+    },
+    {
+        "Background": "Red",
+        "Class": "Crusader",
+        "Body": "Dragonhide",
+        "Head": "Blond Hair",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 753
+    },
+    {
+        "Background": "Gray",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "None",
+        "Eyes": "Blindfold",
+        "Mouth": "Tongue",
+        "Back": "Dragon Wings",
+        "Power": 752
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "Beast Hide",
+        "Head": "Viking",
+        "Eyes": "Light",
+        "Mouth": "Frown",
+        "Back": "Cape",
+        "Power": 752
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Shadow Hood",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 752
+    },
+    {
+        "Background": "Purple",
+        "Class": "Assassin",
+        "Body": "Skull Shirt",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 750
+    },
+    {
+        "Background": "None",
+        "Class": "Wizard",
+        "Body": "None",
+        "Head": "Flaming",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 745
+    },
+    {
+        "Background": "Orange",
+        "Class": "Berserker",
+        "Body": "Wizard Robes",
+        "Head": "Blond Hair",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 744
+    },
+    {
+        "Background": "Purple",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Blond Hair",
+        "Eyes": "Blue",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 743
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Wizard Robes",
+        "Head": "Brown Hair",
+        "Eyes": "Light",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 740
+    },
+    {
+        "Background": "Dark",
+        "Class": "Assassin",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 739
+    },
+    {
+        "Background": "Blue",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "Blond Hair",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "Angel Wings",
+        "Power": 738
+    },
+    {
+        "Background": "Orange",
+        "Class": "Ranger",
+        "Body": "Light Armor",
+        "Head": "Brown Hair",
+        "Eyes": "VR",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 737
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Flaming",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 735
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Beast Hide",
+        "Head": "Viking",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 735
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Demon",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 735
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Plate Armor",
+        "Head": "Brown Hair",
+        "Eyes": "Black",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 731
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Skull Shirt",
+        "Head": "Viking",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 729
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Brown Hair",
+        "Eyes": "VR",
+        "Mouth": "Tongue",
+        "Back": "Cape",
+        "Power": 729
+    },
+    {
+        "Background": "Orange",
+        "Class": "Assassin",
+        "Body": "None",
+        "Head": "Flaming",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 727
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "Light Armor",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Angel Wings",
+        "Power": 726
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Winged Helm",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 725
+    },
+    {
+        "Background": "Red",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Manga",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 724
+    },
+    {
+        "Background": "Red",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Flaming",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 723
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "Wizard Robes",
+        "Head": "Brown Hair",
+        "Eyes": "Black",
+        "Mouth": "Frown",
+        "Back": "Cape",
+        "Power": 721
+    },
+    {
+        "Background": "Purple",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Halo",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 717
+    },
+    {
+        "Background": "Purple",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Winged Helm",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 716
+    },
+    {
+        "Background": "Yellow",
+        "Class": "Wizard",
+        "Body": "Light Armor",
+        "Head": "Viking",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 715
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "Light Armor",
+        "Head": "None",
+        "Eyes": "Blue",
+        "Mouth": "Frown",
+        "Back": "None",
+        "Power": 714
+    },
+    {
+        "Background": "Purple",
+        "Class": "Wizard",
+        "Body": "None",
+        "Head": "Headband",
+        "Eyes": "Laser",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 714
+    },
+    {
+        "Background": "None",
+        "Class": "Wizard",
+        "Body": "None",
+        "Head": "Demon",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 711
+    },
+    {
+        "Background": "Orange",
+        "Class": "Crusader",
+        "Body": "Light Armor",
+        "Head": "None",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 711
+    },
+    {
+        "Background": "Red",
+        "Class": "Berserker",
+        "Body": "Skull Shirt",
+        "Head": "Brown Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 710
+    },
+    {
+        "Background": "Gray",
+        "Class": "Ranger",
+        "Body": "Beast Hide",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 710
+    },
+    {
+        "Background": "Orange",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Manga",
+        "Eyes": "Light",
+        "Mouth": "None",
+        "Back": "Angel Wings",
+        "Power": 710
+    },
+    {
+        "Background": "Orange",
+        "Class": "Wizard",
+        "Body": "Beast Hide",
+        "Head": "None",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 710
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Brown Hair",
+        "Eyes": "Blindfold",
+        "Mouth": "Smile",
+        "Back": "None",
+        "Power": 709
+    },
+    {
+        "Background": "Blue",
+        "Class": "Wizard",
+        "Body": "None",
+        "Head": "Viking",
+        "Eyes": "None",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 706
+    },
+    {
+        "Background": "Gray",
+        "Class": "Ranger",
+        "Body": "Wizard Robes",
+        "Head": "Blond Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 702
+    },
+    {
+        "Background": "Purple",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Halo",
+        "Eyes": "Black",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 702
+    },
+    {
+        "Background": "Red",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Demon",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 698
+    },
+    {
+        "Background": "Red",
+        "Class": "Wizard",
+        "Body": "Beast Hide",
+        "Head": "Blond Hair",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 696
+    },
+    {
+        "Background": "Blue",
+        "Class": "Assassin",
+        "Body": "Light Armor",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 696
+    },
+    {
+        "Background": "Purple",
+        "Class": "Necromancer",
+        "Body": "Beast Hide",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 693
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Flaming",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 691
+    },
+    {
+        "Background": "Red",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Headband",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 691
+    },
+    {
+        "Background": "Red",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Wizard Hat",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Dragon Wings",
+        "Power": 689
+    },
+    {
+        "Background": "Blue",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Demon",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 680
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "Light Armor",
+        "Head": "Brown Hair",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 673
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Wizard Hat",
+        "Eyes": "Stone",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 672
+    },
+    {
+        "Background": "Gray",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Brown Hair",
+        "Eyes": "Blindfold",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 671
+    },
+    {
+        "Background": "Gray",
+        "Class": "Necromancer",
+        "Body": "None",
+        "Head": "Brown Hair",
+        "Eyes": "Stone",
+        "Mouth": "Tongue",
+        "Back": "None",
+        "Power": 665
+    },
+    {
+        "Background": "Orange",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Manga",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 662
+    },
+    {
+        "Background": "Gray",
+        "Class": "Crusader",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 660
+    },
+    {
+        "Background": "Red",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Sword",
+        "Power": 660
+    },
+    {
+        "Background": "Red",
+        "Class": "Ranger",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 652
+    },
+    {
+        "Background": "Orange",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Jester",
+        "Eyes": "Blue",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 650
+    },
+    {
+        "Background": "Blue",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "Cape",
+        "Power": 624
+    },
+    {
+        "Background": "Gray",
+        "Class": "Berserker",
+        "Body": "None",
+        "Head": "Blond Hair",
+        "Eyes": "Black",
+        "Mouth": "None",
+        "Back": "None",
+        "Power": 611
+    }
+]

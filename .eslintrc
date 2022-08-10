@@ -1,0 +1,26 @@
+{
+    "extends": [
+        "eslint:recommended",
+        "plugin:import/recommended",
+        "plugin:json/recommended",
+        "airbnb"
+    ],
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2022
+    },
+    "rules": {
+        "indent": [
+            1,
+            4
+        ],
+        "no-console": 0,
+        "no-await-in-loop": 0,
+        "no-continue": 0,
+        "camelcase": 0
+    }
+}
