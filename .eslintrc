@@ -14,13 +14,14 @@
         "ecmaVersion": 2022
     },
     "rules": {
-        "indent": [
-            1,
-            4
-        ],
+        "indent": [1,4],
         "no-console": 0,
         "no-await-in-loop": 0,
         "no-continue": 0,
-        "camelcase": 0
+        "camelcase": 0,
+        "max-len":[1, 140],
+        "array-bracket-spacing":[1, "always"],
+        "consistent-return": 0,
+        "import/prefer-default-export":0,
     }
 }

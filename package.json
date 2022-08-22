@@ -4,16 +4,12 @@
         "@jackcom/reachduck": "^0.4.2",
         "@reach-sh/stdlib": "^0.1.11-rc.5",
         "cors": "^2.8.5",
-        "eslint-plugin-json": "^3.1.0",
-        "express": "^4.18.1",
-        "mime": "^3.0.0",
-        "multiformats": "^9.7.1",
-        "nft.storage": "^6.4.1",
-        "url-parse": "^1.5.10"
+        "express": "^4.18.1"
     },
     "devDependencies": {
         "eslint": "^8.20.0",
-        "eslint-config-airbnb": "^19.0.4"
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-plugin-json": "^3.1.0"
     },
     "scripts": {
         "start": "node --experimental-json-modules index.js"

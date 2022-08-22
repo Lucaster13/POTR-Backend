@@ -1,5 +1,5 @@
 // reach consts
-import * as SummoningCtcBackend from '../../contracts/build/Summoning.contract.mjs';
+import * as SummoningCtcBackend from './contracts/Summoning.contract.mjs';
 
 export const REACH_NETWORK = 'TestNet';
 export const REACH_PROVIDER_ENV = {
@@ -25,7 +25,4 @@ export const COIN_IDS = {
     gold: 99523594,
 };
 
-const token = '';
-const server = `https://${REACH_NETWORK.toLowerCase()}-api.algonode.cloud`;
-const port = 443;
-export const ALGOSDK_PARAMS = [token, server, port];
+export const PORT = 3300;
