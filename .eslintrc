@@ -1,27 +1,55 @@
 {
-    "extends": [
-        "eslint:recommended",
-        "plugin:import/recommended",
-        "plugin:json/recommended",
-        "airbnb"
-    ],
-    "env": {
-        "node": true,
-        "es6": true
-    },
     "parserOptions": {
         "sourceType": "module",
         "ecmaVersion": 2022
     },
+    "settings": {
+        "import/resolver": {
+            "typescript": true,
+            "node": true
+        }
+    },
+    "parser": "@typescript-eslint/parser",
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
+    "plugins": ["@typescript-eslint"],
+    "extends": [
+        "eslint:recommended",
+        "plugin:json/recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:import/typescript",
+        "airbnb",
+        "prettier"
+    ],
     "rules": {
-        "indent": [1,4],
-        "no-console": 0,
-        "no-await-in-loop": 0,
-        "no-continue": 0,
-        "camelcase": 0,
-        "max-len":[1, 140],
-        "array-bracket-spacing":[1, "always"],
-        "consistent-return": 0,
-        "import/prefer-default-export":0,
-    }
+        "camelcase": "off",
+        "import/extensions": "off",
+        "@typescript-eslint/ban-ts-comment": "warn",
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-shadow": "error",
+        "@typescript-eslint/no-unused-vars": 1,
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "import/prefer-default-export": "off",
+
+        "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+        "no-param-reassign": "off",
+        "no-await-in-loop": "off",
+        "react-hooks/exhaustive-deps": "off",
+        "no-nested-ternary": "off",
+        "no-shadow": "off",
+        "global-require": "off",
+
+        // REACT PROPS
+        "no-return-assign": "off",
+        "@typescript-eslint/no-empty-function": "off",
+        "consistent-return": "off",
+        "@typescript-eslint/no-var-requires": "off",
+        "no-use-before-define": "off",
+        "no-unused-vars": 1
+    },
+    "overrides": []
 }

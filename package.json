@@ -1,15 +1,29 @@
 {
     "type": "module",
     "dependencies": {
-        "@jackcom/reachduck": "^0.4.2",
-        "@reach-sh/stdlib": "^0.1.11-rc.5",
+        "@reach-sh/stdlib": "^0.1.12",
+        "axios": "^1.3.4",
         "cors": "^2.8.5",
-        "express": "^4.18.1"
+        "express": "^4.18.1",
+        "potr-utils": "github:Lucaster13/POTR-Utils"
     },
     "devDependencies": {
+        "@types/cors": "^2.8.13",
+        "@types/express": "^4.17.17",
+        "@typescript-eslint/eslint-plugin": "^5.48.1",
+        "@typescript-eslint/parser": "^5.48.1",
         "eslint": "^8.20.0",
         "eslint-config-airbnb": "^19.0.4",
-        "eslint-plugin-json": "^3.1.0"
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-import-resolver-typescript": "^3.5.3",
+        "eslint-plugin-import": "^2.27.4",
+        "eslint-plugin-json": "^3.1.0",
+        "eslint-plugin-json-format": "^2.0.1",
+        "eslint-plugin-prettier": "^4.2.1",
+        "eslint-plugin-react": "^7.32.0",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "prettier": "^2.8.3",
+        "typescript": "^4.9.5"
     },
     "scripts": {
         "start": "node --experimental-json-modules index.js"
