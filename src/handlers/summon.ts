@@ -1,30 +1,31 @@
-import { CoinType, ContractId, NetworkAddress, SummonHandle } from "potr-utils/src/types";
-import { SummonBackend } from "potr-utils/src/contracts";
-import { ASA_IDS, COIN_TYPES } from "potr-utils/src/constants";
-import { RAND_KINGDOM_MNEMONIC } from "../utils/.secrets";
-import { createReachApi, getRarity } from "../utils/common";
-import summonPotr from "../utils/summon-potr";
+import { ACCOUNTS, COIN_TYPES, Coin } from "../constants";
+import { ContractId, NetworkAddress, ReachAccount, SummonHandle } from "../types";
+import { makeReach, getRarity, summonPotr } from "../utils";
+import { ASA_IDS } from "../data";
+import { CONTRACT_BACKENDS } from "../contracts";
 
-export default async function Summon(summonerAddr: NetworkAddress, contractId: ContractId) {
-    const reach = createReachApi();
+export default async function summon(summonerAddr: NetworkAddress, contractId: ContractId) {
+    const reach = makeReach();
     try {
         console.log(`${summonerAddr} initiated summon: ${contractId}`);
 
         // have admin sign into its account
-        const RandKingdomAccount = await reach.newAccountFromMnemonic(RAND_KINGDOM_MNEMONIC);
+        const Admin: ReachAccount = await reach.newAccountFromMnemonic(ACCOUNTS.TestNet.admin.mnemonic);
 
         console.log(`Kingdom admin signed in successfully`);
 
         // attach admin to contract
-        const SummonCtcHandle: SummonHandle = RandKingdomAccount.contract(SummonBackend, contractId);
+        const ctcHandle = Admin.contract<SummonHandle>(CONTRACT_BACKENDS.summon, contractId);
+
+        console.log(`Kingdom connected to contract`);
 
         // have admin connect and wait for contract completion
-        await SummonCtcHandle.p.Admin({
+        await ctcHandle.p.Admin({
             get_potr: async (paymentCoin) => {
                 // get payment coin type
                 const paymentCoinAsaId = Number(paymentCoin);
-                const paymentCoinIdx = Object.values(ASA_IDS.coin).indexOf(paymentCoinAsaId);
-                const paymentCoinType = COIN_TYPES[paymentCoinIdx] as CoinType;
+                const paymentCoinIdx = Object.values(ASA_IDS.TestNet.coin).indexOf(paymentCoinAsaId);
+                const paymentCoinType = COIN_TYPES[paymentCoinIdx] as Coin;
                 console.log(`Summoning potr using ${paymentCoinType} coin`);
 
                 // determine rarity of potr based on coin type
@@ -34,7 +35,7 @@ export default async function Summon(summonerAddr: NetworkAddress, contractId: C
 
                 // get available potrs from admin account
                 console.log(`Searching for potr to summon`);
-                const potrId = summonPotr(isRarePotr);
+                const potrId = await summonPotr(isRarePotr);
                 console.log(`Potr found!`, potrId);
                 console.log(`Sending summoned potr ${potrId} to contract`);
 
@@ -42,8 +43,9 @@ export default async function Summon(summonerAddr: NetworkAddress, contractId: C
             },
             ...reach.hasConsoleLogger,
         });
+
         console.log("done summoning");
     } catch (e) {
-        throw new Error(`Summon ${contractId} Failed: ${e.message}`);
+        console.error(`Summon ${contractId} Failed: ${e.message}`);
     }
 }
