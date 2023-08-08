@@ -1,23 +1,23 @@
 {
-    "compilerOptions": {
-        "module": "ESNext",
-        "target": "ESNext",
-        "noImplicitAny": false,
-        "removeComments": true,
-        "moduleResolution": "Node",
-        "preserveConstEnums": true,
-        "sourceMap": true,
-        "esModuleInterop": true,
-        "allowJs": true,
-        "outDir": "./build",
-        "resolveJsonModule": true,
-        "typeRoots": ["node_modules/@types"],
-        "skipLibCheck": true,
-        "noEmit": true
-    },
-    "include": ["src/**/*", "globals.d.ts"],
-    "ts-node": {
-        "esm": true,
-        "experimentalSpecifierResolution": "node"
-    }
+	"compilerOptions": {
+		"module": "ESNext",
+		"target": "ESNext",
+		"noImplicitAny": false,
+		"removeComments": true,
+		"moduleResolution": "Node",
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"allowJs": true,
+		"outDir": "./build",
+		"resolveJsonModule": true,
+		"typeRoots": ["node_modules/@types"],
+		"skipLibCheck": true,
+		"noEmit": true
+	},
+	"include": ["src/**/*", "globals.d.ts"],
+	"ts-node": {
+		"esm": true,
+		"experimentalSpecifierResolution": "node"
+	}
 }

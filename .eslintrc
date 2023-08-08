@@ -1,20 +1,22 @@
 {
-    "env": {
-        "browser": true,
-        "es2021": true
-    },
+	"env": {
+		"browser": true,
+		"es2021": true
+	},
 
-    "extends": ["airbnb", "airbnb-typescript", "prettier"],
-    "parserOptions": {
-        "ecmaFeatures": {
-            "jsx": true
-        },
-        "ecmaVersion": "latest",
-        "sourceType": "module",
-        "project": "./tsconfig.json"
-    },
-    "parser": "@typescript-eslint/parser",
-    "rules": {
-        "@typescript-eslint/no-explicit-any": "warn"
-    }
+	"extends": ["airbnb", "airbnb-typescript", "prettier"],
+	"parserOptions": {
+		"ecmaFeatures": {
+			"jsx": true
+		},
+		"ecmaVersion": "latest",
+		"sourceType": "module",
+		"project": "./tsconfig.json"
+	},
+	"parser": "@typescript-eslint/parser",
+	"rules": {
+		"@typescript-eslint/no-explicit-any": "warn",
+		"import/prefer-default-export": "off",
+		"import/extensions": "off"
+	}
 }
