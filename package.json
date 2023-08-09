@@ -6,7 +6,7 @@
 		"axios": "^1.3.5",
 		"cors": "^2.8.5",
 		"express": "^4.18.2",
-		"potr-common": "^1.0.34",
+		"potr-common": "^1.0.42",
 		"superagent": "^8.0.9"
 	},
 	"devDependencies": {
